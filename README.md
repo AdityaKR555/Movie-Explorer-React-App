@@ -24,6 +24,6 @@
 
 ## 📸 Preview
 
-<img src="image.png" alt="output">
+<img src="./image.png" alt="output" width="150px">
 
 ---
