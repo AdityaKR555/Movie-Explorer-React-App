@@ -5,7 +5,7 @@ import MovieDetail from './components/MovieDetail.jsx';
 import axios from 'axios';
 
 function App() {
-  const API_KEY = "a66cef54";
+  const API_KEY = "Use-Your-Own-Api";
 
   const [movieName, setMovieName] = useState("");
   const [movies, setMovies] = useState(null);
