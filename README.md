@@ -25,7 +25,8 @@
 ## 📸 Preview
 
 <img src="./image1.png" alt="result">
+<img src="./image.png" alt="extra info">
 <img src="./image2.png" alt="extra info">
-<img src="./image.png" alt="when no result found">
+<img src="./image3.png" alt="when no result found">
 
 ---
